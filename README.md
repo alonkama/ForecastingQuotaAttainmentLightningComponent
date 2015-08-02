@@ -1,0 +1,2 @@
+# ForecastingQuotaAttainmentLightningComponent
+Salesforce Lightning Component for tracking your forecast
